@@ -9,11 +9,9 @@ description: | # 头像背后的信息（html格式），<br/>代表换行
   <a href="https://github.com/yanhong2020">
     <i class="fa-brands fa-github"></i>
   </a>
-  <!--
-  <a href="https://vjudge.net/user/WuK">
-    <i class="fa-solid fa-smile"></i>
+  <a href="https://steamcommunity.com/profiles/76561198878526637/">
+    <i class="fa-brands fa-steam"></i>
   </a>
-  -->
   <a href="https://space.bilibili.com/166390020">
     <i class="fa-brands fa-bilibili"></i>
   </a>
