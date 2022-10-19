@@ -1,4 +1,4 @@
-## 雪民です
+# 雪民です
 
 欢迎访问我的主页！下面向你介绍一下我吧\~
 
@@ -19,6 +19,8 @@
   * **山西省**
 * 网站
   * **[yanhong2020.github.io](https://yanhong2020.github.io/)**
+* Steam个人主页
+  * **[雪民です_Official](https://steamcommunity.com/profiles/76561198878526637/)**
 
 <!-- .slide -->
 
