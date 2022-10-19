@@ -26,7 +26,7 @@
 
 ## Blogs
 
-* [正准备写第一篇](yanhong2020.github.io)
+* [一些知名的DNS服务器列表](https://yanhong2020.github.io/2022/10/20/%E4%B8%80%E4%BA%9B%E7%9F%A5%E5%90%8D%E7%9A%84DNS%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%88%97%E8%A1%A8/)
 
 <!-- .slide -->
 
