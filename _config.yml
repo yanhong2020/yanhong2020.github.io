@@ -234,8 +234,10 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                       <i class="fa-solid fa-spinner fa-pulse"></i>
                     </span>人
                   </div>
-                  <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
-                  </script>
+                  <script
+                    src='//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js'
+                    async='async'
+                  ></script>
                 </div>
               - | # 觉得我的主题好用的话，让更多的人知道它吧！
                 <div>
